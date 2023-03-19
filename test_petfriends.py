@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
 # python 3.10
+# selenium 4.8.2
 # pytest -v test_petfriends.py
 
 def test_show_all_pets(testing):
